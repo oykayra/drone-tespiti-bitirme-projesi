@@ -119,3 +119,7 @@ Bu projede VisDrone veri seti ile egitilmis YOLOv8 modeli kullanilmaktadir. Mode
 
 Oykü Kayra
 Bilgisayar Programciligi Bitirme Projesi
+
+## Not
+
+Model ağırlıkları, örnek videolar ve veri setleri depo boyutunu artırmamak amacıyla GitHub reposuna dahil edilmemiştir.
