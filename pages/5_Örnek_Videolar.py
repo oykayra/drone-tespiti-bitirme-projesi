@@ -1,7 +1,7 @@
 import streamlit as st
-if not st.session_state.get("authentication_status"):
-    st.warning("Bu sayfaya erişmek için giriş yapmanız gerekiyor.")
-    st.stop()
+#if not st.session_state.get("authentication_status"):
+   # st.warning("Bu sayfaya erişmek için giriş yapmanız gerekiyor.")
+   # st.stop()
 import os
 
 st.set_page_config(page_title="Örnek Videolar", layout="wide")

@@ -1,7 +1,7 @@
 import streamlit as st
-if not st.session_state.get("authentication_status"):
-    st.warning("Bu sayfaya erişmek için giriş yapmanız gerekiyor.")
-    st.stop()
+#if not st.session_state.get("authentication_status"):
+    #st.warning("Bu sayfaya erişmek için giriş yapmanız gerekiyor.")
+   # st.stop()
 import pandas as pd
 import os
 from database import analizleri_getir, analiz_sil

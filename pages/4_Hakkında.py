@@ -1,7 +1,7 @@
 import streamlit as st
-if not st.session_state.get("authentication_status"):
-    st.warning("Bu sayfaya erişmek için giriş yapmanız gerekiyor.")
-    st.stop()
+#if not st.session_state.get("authentication_status"):
+   # st.warning("Bu sayfaya erişmek için giriş yapmanız gerekiyor.")
+    #st.stop()
 from config import APP_ADI, APP_VERSIYONU, APP_ACIKLAMA, ONEMLI_SINIFLAR
 
 st.set_page_config(page_title="Hakkında", layout="wide")

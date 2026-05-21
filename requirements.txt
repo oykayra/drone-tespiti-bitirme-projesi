@@ -6,7 +6,6 @@ uvicorn
 python-multipart
 plotly
 reportlab
-streamlit-authenticator
 pandas
 numpy
 pillow
