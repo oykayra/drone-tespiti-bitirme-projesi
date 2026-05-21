@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.pt
+*.zip
+videos/
+runs/
+.cache/
+datasets/
+*.mp4
+*.mov
